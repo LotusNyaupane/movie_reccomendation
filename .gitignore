@@ -1,9 +1,6 @@
 .venv/
-.streamlit/secrets.toml 
+.streamlit/secrets.toml
 similarity.pkl
 .ipynb_checkpoints/
-<<<<<<< HEAD
-=======
-similarity.pkl
-.ipynb_checkpoints/
->>>>>>> b4e5d13 (Complete movie recommendation system)
+__pycache__/
+.DS_Store
